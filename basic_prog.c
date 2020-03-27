@@ -10,5 +10,6 @@ printf("functon\n");
 new_func()
 {
 printf("NEW FUNCTION CREATED\n");
+printf(" git add \n");
 }
 
